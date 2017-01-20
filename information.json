@@ -1,0 +1,34 @@
+[
+  {
+    "state": "Punjab",
+    "city": "Chandigarh",
+    "school": {
+      "name": "DAV Public School",
+      "principle": "V.K Rohan"
+    }
+  },
+  {
+    "state": "Haryana",
+    "city": "Rohtak",
+    "school": {
+      "name": "SRS Public School",
+      "principle": "B.B Sharma"
+    }
+  },
+  {
+    "state": "Haryana",
+    "city": "Rohtak",
+    "school": {
+      "name": "SRS Public School",
+      "principle": "B.B Sharma"
+    }
+  },
+  {
+    "state": "Haryana",
+    "city": "Rohtak",
+    "school": {
+      "name": "SRS Public School",
+      "principle": "B.B Sharma"
+    }
+  }
+]
